@@ -1,0 +1,119 @@
+ BODY, TD {
+  
+}
+ .textformat {
+    font-family: "verdana";
+    font-size: 10px;
+    color: #001A66;
+    font-weight:bold;
+    
+}
+.menu {
+         font-family: "verdana";
+    font-size: 10px;
+    color: #FF0000;
+}
+.labels {
+    font-family: verdana, Geneva, sans-serif;
+    font-size: 14px;
+    color: #000000;
+    
+}
+
+.text_black {
+    font-family: "verdana";
+    font-size: 9pt;
+    color: #000000;
+}
+.text_black_bold {
+    font-family: "verdana";
+    font-size: 9pt;
+    color: #000000;
+    font-weight:bold;
+    font-stretch: extra-expanded;
+    
+}
+
+.text_white{
+    font-family: "verdana";
+    font-size: 7pt;
+    color: #FFFFFF;
+}
+.text_white_huge {
+    font-family: "verdana";
+    font-size: 11pt;
+    color: #FFFFFF;
+    
+}
+.text_black_huge {
+    font-family: "verdana";
+    font-size: 16pt;
+    font-weight: bold;
+    color: #000000;
+    text-align: left;
+}
+a:hover {
+    color: #FF0000;
+}
+A:link {
+        text-decoration: none;
+        color: #000000;
+        
+}
+a:visited {
+            text-decoration: none;
+            color: #000000;
+}
+a:active {
+        text-decoration: none;
+        color: #000000; 
+}
+.black {
+    background-color: #000000;
+    
+}
+.white{
+    background-color: #EEEEEE;
+    
+}
+.gray{
+    background-color: #E5E5E5;
+}
+.yellow{
+    background-color: #C9FF26;
+    
+}
+.dark_yellow{
+             background-color: #FF9900;
+}
+.top{
+    background-color: #000000;
+    font-size: 3px;
+}
+A {
+}
+
+A:Hover {
+}
+
+
+x-star-rating {
+       font-family: 'Ionicons';
+       font-size: 48px;
+       display: inline-flex;
+       cursor: pointer;
+       
+}
+
+x-star-rating > .star:after {
+          content: '\f3ae';
+          color: #777;
+          
+}
+
+x-star-rating > .star.full:after {
+          content: '\f2fc';
+          color: #fd0;
+          
+}
+
